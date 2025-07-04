@@ -15,7 +15,7 @@ A lightweight Python script that analyzes Python projects to provide detailed st
 
 1. Run the script:
    ```bash
-   python code_analyzer.py
+   python python_project_stats.py
    ```
 
 2. Enter the directory path you want to analyze when prompted
